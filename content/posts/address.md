@@ -1,6 +1,9 @@
----
-title: "Address"
-date: 2018-11-05T18:36:20-08:00
-draft: true
----
++++
+title = "Address"
+weight = 20
+draft = false
++++
 
+{{< figure class="image main" src="/images/pic02.jpg" >}}
+Church is located at: 535 N. Main St., Los Angeles, CA, 90012
+Party is loacated at: 3968 Bain St., Mira Loma, CA
