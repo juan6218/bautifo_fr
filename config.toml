@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->Friday, October 30th.<!--]--><br/>
                 <!--[-->Be there or be square.<!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-beer"
   copyright = "Beto"
 
 
