@@ -1,5 +1,5 @@
-baseurl = "http://example.org"
-title = "You're Invited!"
+baseurl = "https://ramon-halloween-bash.netlify.app"
+title = "Ramon's Halloween Bash"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,15 +7,11 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Saturday, November 17th<!--]--><br/>
+  description = '<!--[-->Friday, October 30th.<!--]--><br/>
                 <!--[-->Be there or be square.<!--]-->'
   logo = "fa-diamond"
   copyright = "Beto"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
 
 [languages]
 [languages.en]
