@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://halloween-bash.netlify.app/#Vote</loc>
+  </url>
+  
+  <url>
     <loc>https://halloween-bash.netlify.app/#</loc>
     <priority>0</priority>
   </url>

@@ -1,5 +1,5 @@
 baseurl = "https://halloween-bash.netlify.app"
-title = "Ruby's & Ramon's Halloween Bash"
+title = "Tostadas XV!"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,8 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Friday, October 30th.<!--]--><br/><!--[-->Be there or be square.<!--]-->'
-  logo = "fa-beer"
+  description = '<!--[-->Decemeber 19, 2020!<!--]--><br/><!--[-->Be there or be square.<!--]-->'
+  logo = "fa-birthday-cake"
   copyright = "Beto"
 
 
