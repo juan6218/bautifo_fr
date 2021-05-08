@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://halloween-bash.netlify.app/sitemap.xml

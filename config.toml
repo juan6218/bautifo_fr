@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = """Decemeber 19, 2020 <p /> &#x25A1; Be there or be square &#x25A1;"""
+  description = """May 15, 2021 <p /> &#x25A1; Be there or be square &#x25A1;"""
   logo = "fa-birthday-cake"
   copyright = "Beto"
 

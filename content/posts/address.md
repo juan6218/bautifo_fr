@@ -5,4 +5,4 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/pic01.jpg" >}}
-Party @: [My House](https://www.google.com/maps/place/Coachella,+CA+92236 "Coachella, CA")
+Party @: [XV House](https://www.google.com/maps/place/86070+Cll+Pizano,+Coachella,+CA+92236 "Calle Pizano, Coachella, CA")
